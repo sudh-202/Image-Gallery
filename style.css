@@ -142,7 +142,7 @@ button, i {
 }
 .gallery .load-more {
   color: #fff;
-  background: #8A6CFF;
+  background: #33f28c;
   margin: 50px 0;
   font-size: 1.2rem;
   padding: 12px 27px;
@@ -152,7 +152,7 @@ button, i {
   pointer-events: none;
 }
 .gallery .load-more:hover {
-  background: #704dff;
+  background: #0f7740;
 }
 
 .lightbox {
@@ -269,3 +269,5 @@ header .buttons i:last-child:hover {
     font-size: 1.05rem;
   }
 }
+
+/* #43F595 */
